@@ -1,4 +1,4 @@
-# AIMLLabSem7
+# AIML-Lab-Sem-7
 
 # Deep Learning Lab (AIML) – Semester VII
 
